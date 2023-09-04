@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azzot0n1
-- 👀 I’m currently interested in Arduino
+
 - 🌱 I’m currently learning C programming
 
 - 📫 How to reach me twanny.azzopardi@gmail.com
